@@ -1,5 +1,5 @@
 # MitiKoman
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aryansabet/MitiKoman/   
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aryansabet/MitiKoman/)
 lets start
 ## configuration checklist
 - install python from web
