@@ -2,7 +2,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aryansabet/MitiKoman/)
 lets start
 ## configuration checklist
-- install python from web
+- install python from web  
 open PowerShell of Windows
 - install jupyter
 `pip install jupyter`  
