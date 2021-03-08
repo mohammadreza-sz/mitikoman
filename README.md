@@ -49,4 +49,8 @@ Colab can load public github notebooks directly, with no required authorization 
 - `http://colab.research.google.com/github/googlecolab/colabtools/` will let you browse the main branch of the colabtools repository within the googlecolab organization. Substitute any user/org and repository to see its contents.  
 - `http://colab.research.google.com/github/googlecolab/colabtools/blob/master` will let you browse master branch of the colabtools repository within the googlecolab organization. (don't forget the blob here!) You can specify any valid branch for any valid repository.  
 
-![](https://i.pinimg.com/originals/70/41/84/704184b14c84b139bbee80107fe9dd04.png)
+![](https://i.pinimg.com/originals/70/41/84/704184b14c84b139bbee80107fe9dd04.png)  
+some links:  
+`https://github.com/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb`  
+`https://code.visualstudio.com/docs/python/jupyter-support#_create-or-open-a-jupyter-notebook`
+
