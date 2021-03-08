@@ -1,5 +1,5 @@
 # MitiKoman
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aryansabet/MitiKoman/MitiKoman.ipynb)   
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aryansabet/MitiKoman/   
 lets start
 ## configuration checklist
 - install python from web
@@ -29,7 +29,7 @@ maybe need to upgrade the pip by the recomended command. like `felan bisar --upg
 ![](https://code.visualstudio.com/assets/docs/python/jupyter/native-code-cells-01.png)
 ## how to use  colab with git
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aryansabet/MitiKoman/MitiKoman.ipynb)  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aryansabet/MitiKoman/)  
 
 Using Google Colab with GitHub
 Google Colaboratory is designed to integrate cleanly with GitHub, allowing both loading notebooks from github and saving notebooks to github.  
